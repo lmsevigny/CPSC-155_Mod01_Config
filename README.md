@@ -4,6 +4,8 @@
 ## Step 1
 Run the `./chaos_monkey.sh` script.
 
+**NOTE**: you will have to give this script execute permissions before it will run
+
 ## Step 2
 Use the `git config` command to get the value of the `chaos.monkey` property stored in the **local** git repository.
 
